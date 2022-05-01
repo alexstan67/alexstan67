@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexstan67&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **alexstan67/alexstan67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
