@@ -7,6 +7,8 @@
 
 - 📫 Reach me at **contact@as-consult.io**.
 
+- 🌱 Detailed resume **[here](https://www.canva.com/design/DAFEHLX7F5k/bwL27XQ7P_iphDxIy8roSg/view?utm_content=DAFEHLX7F5k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
+
 - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="15" width="15" /> Find me on **[LinkedIn](https://www.linkedin.com/in/alexandre-stanescot-8a458549)**.
 
 #### Languages and Tools:
