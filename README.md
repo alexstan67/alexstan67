@@ -27,8 +27,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexstan67&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **alexstan67/alexstan67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
