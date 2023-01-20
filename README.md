@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Alex
-#### A full-stack developer based in France
+#### A web entrepreneur based in France
 
 - 🔭 I’m currently working on a project dedicated to General Aviation fellows 🛩️ called Week-end Fly! A web platform helping to find the right destination for travels. More to come, stay tuned!
 
