@@ -1,9 +1,11 @@
 ### Hi there 👋, I'm Alex
-#### A web entrepreneur based in France
+#### Cofounder & web entrepreneur based in France/Luxemourg
 
-- 🔭 I’m currently working on a project dedicated to General Aviation fellows 🛩️ called Weekend Fly! A web platform helping to find the right destination for travels. More to come, stay tuned!
+- 🚀 June 2023 I cofounded Sky-Unlimited, a luxemburgish company that will provide a SaaS solution dedicated to General Aviation fellows 🛩️ called Weekend Fly! Release date Q2 2024, stay tuned!
 
-- 🎓 June 2022 I completed **[Le Wagon](https://www.lewagon.com)’s 9-week web development bootcamp** in Bali, Indonesia.
+- Since August 2022, I provide Freelance services around Web Applications based on Ruby on Rails framework;
+
+- 🎓 June 2022 I completed **[Le Wagon](https://www.lewagon.com)’s 9-week web development bootcamp** in Bali, Indonesia;
 
 - 📫 Reach me at **contact@as-consult.io**.
 
