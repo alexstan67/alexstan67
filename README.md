@@ -28,6 +28,8 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://postgis.net" target="_blank" rel="noreferrer"><img src="https://postgis.net/brand.svg" alt="postgis" width="40" height="40"/></a>
+  <a href="https://https://capistranorb.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Capistrano_logo.svg/langfr-800px-Capistrano_logo.svg.png" alt="capistrano" width="40" height="40"/></a>
+   <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/pfyXboQoIHroiwpTMBgWWlY12cGt1U4YNDfIx2nR-Ng/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI0/MTUvUE5HLzUxMi9y/ZWRpc19vcmlnaW5h/bF9sb2dvX2ljb25f/MTQ2MzY4LnBuZw" alt="redis" width="40" height="40"/></a>
  </p>
 
 <!--
