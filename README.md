@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Alex
 #### Cofounder & web entrepreneur based in France/Luxemourg
 
-- 🚀 June 2023 I cofounded Sky-Unlimited, a luxemburgish company that will provide a SaaS solution dedicated to General Aviation fellows 🛩️ called Weekend Fly! Release date Q2 2024, stay tuned!
+- 🚀 June 2023 I cofounded Sky-Unlimited, a luxemburgish company that will provide a SaaS solution dedicated to General Aviation fellows 🛩️ called [Weekend Fly](https://weekend-fly.com) release in June 2024!
 
 - Since August 2022, I provide Freelance services around Web Applications based on Ruby on Rails framework;
 
